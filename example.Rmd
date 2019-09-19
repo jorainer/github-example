@@ -30,6 +30,12 @@ hist(x, breaks = 64)
 
 As seen above the data is nicely normal distributed. 
 
+In addition to a histogram we create a density distribution.
+
+```{r}
+plot(density(x))
+```
+
 
 - Import data
 - General visualization
