@@ -7,3 +7,22 @@ output: html_document
 
 some text.
 
+Some simple maths.
+
+```{r}
+4 + 4
+```
+
+## Introduction
+
+Some introductions...
+
+## Data import
+
+## General data visualization and summary
+
+- Import data
+- General visualization
+- Preprocessins:
+  - peak detection...
+  
