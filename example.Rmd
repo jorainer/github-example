@@ -25,7 +25,7 @@ The distribution of values is shown below.
 
 ```{r}
 x <- rnorm(100)
-hist(x)
+hist(x, breaks = 64)
 ```
 
 As seen above the data is nicely normal distributed. 
