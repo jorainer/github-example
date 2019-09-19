@@ -21,6 +21,16 @@ Some introductions...
 
 ## General data visualization and summary
 
+The distribution of values is shown below.
+
+```{r}
+x <- rnorm(100)
+hist(x)
+```
+
+As seen above the data is nicely normal distributed. 
+
+
 - Import data
 - General visualization
 - Preprocessins:
